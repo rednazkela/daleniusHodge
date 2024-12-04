@@ -16,6 +16,8 @@
 #' using the cumulative square root of the frequencies to determine 
 #' the stratum limits. 
 #' 
+#' @import data.table
+#'
 #' @examples
 #' \dontrun{ 
 #' # Usage example 
